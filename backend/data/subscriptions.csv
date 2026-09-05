@@ -1,0 +1,15 @@
+subscription_id,merchant,category,frequency,last_usage_date
+SUB-001,Spotify,Music Streaming,monthly,2026-09-03
+SUB-002,YouTube Premium,Streaming Video,monthly,2026-09-04
+SUB-003,Microsoft 365,Productivity,monthly,2026-09-02
+SUB-004,Amazon Prime,Streaming Video,monthly,2026-09-04
+SUB-005,Substack Pro,Media,monthly,2026-09-03
+SUB-006,VPN Shield,Security,monthly,2026-09-01
+SUB-007,Netflix,Streaming Video,monthly,2026-09-01
+SUB-008,NewsPlus,Media,monthly,2026-08-31
+SUB-009,FitnessPro,Fitness,monthly,2026-06-06
+SUB-010,GamingPlus,Entertainment,monthly,2026-05-23
+SUB-011,Adobe,Design,monthly,2026-09-03
+SUB-012,Dropbox,Cloud Storage,monthly,2026-08-25
+SUB-013,Google One,Cloud Storage,monthly,2026-09-04
+SUB-014,CloudBox,Cloud Storage,monthly,2026-08-20

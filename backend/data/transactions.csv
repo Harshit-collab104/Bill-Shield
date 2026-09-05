@@ -1,0 +1,1083 @@
+transaction_id,date,merchant,amount,category,payment_method,description
+T00001,2025-09-01,Amazon Prime,299.0,Subscription,AutoPay,Monthly subscription fee - Amazon Prime
+T00002,2025-09-01,Supermarket Fresh,2685.88,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00003,2025-09-02,Uber Rides,518.24,Transport,Card,Transport purchase at Uber Rides
+T00004,2025-09-02,Swiggy Instamart,905.71,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00005,2025-09-03,Google One,149.0,Subscription,AutoPay,Monthly subscription fee - Google One
+T00006,2025-09-03,Shell Fuel Station,1665.32,Transport,Card,Transport purchase at Shell Fuel Station
+T00007,2025-09-04,BookMyShow,1014.87,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00008,2025-09-04,Shell Fuel Station,2098.42,Transport,Card,Transport purchase at Shell Fuel Station
+T00009,2025-09-05,Spotify,119.0,Subscription,AutoPay,Monthly subscription fee - Spotify
+T00010,2025-09-05,Uber Rides,499.07,Transport,UPI,Transport purchase at Uber Rides
+T00011,2025-09-06,Uber Rides,257.66,Transport,UPI,Transport purchase at Uber Rides
+T00012,2025-09-06,StarCoffee Cafe,207.82,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00013,2025-09-06,TechStore Electronics,10246.19,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00014,2025-09-07,BookMyShow,805.37,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00015,2025-09-08,Dropbox,800.0,Subscription,Card,Monthly subscription fee - Dropbox
+T00016,2025-09-08,StarCoffee Cafe,345.61,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00017,2025-09-08,Swiggy Instamart,510.74,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00018,2025-09-08,Supermarket Fresh,2432.98,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00019,2025-09-08,StarCoffee Cafe,436.6,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00020,2025-09-09,Local Diner,771.42,Dining,UPI,Dining purchase at Local Diner
+T00021,2025-09-09,Uber Rides,335.09,Transport,Card,Transport purchase at Uber Rides
+T00022,2025-09-09,PharmaCare Chemist,515.13,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00023,2025-09-09,Swiggy Instamart,1272.16,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00024,2025-09-10,YouTube Premium,149.0,Subscription,AutoPay,Monthly subscription fee - YouTube Premium
+T00025,2025-09-10,Adobe,2672.0,Subscription,Card,Monthly subscription fee - Adobe
+T00026,2025-09-10,Water Works Dept,508.7,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00027,2025-09-10,PharmaCare Chemist,599.94,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00028,2025-09-11,Supermarket Fresh,2885.89,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00029,2025-09-11,Local Diner,326.12,Dining,UPI,Dining purchase at Local Diner
+T00030,2025-09-12,Netflix,649.0,Subscription,AutoPay,Monthly subscription fee - Netflix
+T00031,2025-09-12,PharmaCare Chemist,858.86,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00032,2025-09-12,Uber Rides,282.44,Transport,Card,Transport purchase at Uber Rides
+T00033,2025-09-13,BookMyShow,943.04,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00034,2025-09-13,TechStore Electronics,3022.19,Shopping,Card,Shopping purchase at TechStore Electronics
+T00035,2025-09-13,Zomato Food Delivery,580.27,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00036,2025-09-14,Uber Rides,463.72,Transport,UPI,Transport purchase at Uber Rides
+T00037,2025-09-15,Microsoft 365,489.0,Subscription,Card,Monthly subscription fee - Microsoft 365
+T00038,2025-09-15,City Electricity Board,2530.37,Utilities,UPI,Utilities purchase at City Electricity Board
+T00039,2025-09-16,Zomato Food Delivery,848.37,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00040,2025-09-16,PharmaCare Chemist,1186.67,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00041,2025-09-16,PharmaCare Chemist,623.46,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00042,2025-09-17,CloudBox,799.0,Subscription,AutoPay,Monthly subscription fee - CloudBox
+T00043,2025-09-17,Uber Rides,376.86,Transport,UPI,Transport purchase at Uber Rides
+T00044,2025-09-17,Zomato Food Delivery,776.23,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00045,2025-09-17,PharmaCare Chemist,561.7,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00046,2025-09-17,Uber Rides,336.96,Transport,Card,Transport purchase at Uber Rides
+T00047,2025-09-18,NewsPlus,199.0,Subscription,AutoPay,Monthly subscription fee - NewsPlus
+T00048,2025-09-18,Swiggy Instamart,737.55,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00049,2025-09-19,TechStore Electronics,10605.3,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00050,2025-09-20,FitnessPro,499.0,Subscription,AutoPay,Monthly subscription fee - FitnessPro
+T00051,2025-09-20,Supermarket Fresh,1108.75,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00052,2025-09-20,StarCoffee Cafe,399.57,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00053,2025-09-21,Uber Rides,479.88,Transport,Card,Transport purchase at Uber Rides
+T00054,2025-09-21,Local Diner,856.82,Dining,UPI,Dining purchase at Local Diner
+T00055,2025-09-22,GamingPlus,699.0,Subscription,Card,Monthly subscription fee - GamingPlus
+T00056,2025-09-22,Zomato Food Delivery,771.34,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00057,2025-09-22,BookMyShow,642.89,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00058,2025-09-23,Zomato Food Delivery,549.58,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00059,2025-09-23,Shell Fuel Station,1328.05,Transport,Card,Transport purchase at Shell Fuel Station
+T00060,2025-09-23,Swiggy Instamart,1132.75,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00061,2025-09-23,Supermarket Fresh,573.63,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00062,2025-09-24,StarCoffee Cafe,451.63,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00063,2025-09-24,StarCoffee Cafe,334.25,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00064,2025-09-25,Substack Pro,399.0,Subscription,Card,Monthly subscription fee - Substack Pro
+T00065,2025-09-25,Shell Fuel Station,2278.47,Transport,Card,Transport purchase at Shell Fuel Station
+T00066,2025-09-25,Shell Fuel Station,2769.24,Transport,Card,Transport purchase at Shell Fuel Station
+T00067,2025-09-25,Shell Fuel Station,1388.65,Transport,Card,Transport purchase at Shell Fuel Station
+T00068,2025-09-25,TechStore Electronics,5371.15,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00069,2025-09-26,PharmaCare Chemist,1087.11,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00070,2025-09-27,City Electricity Board,3466.18,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00071,2025-09-28,VPN Shield,299.0,Subscription,Card,Monthly subscription fee - VPN Shield
+T00072,2025-09-28,Shell Fuel Station,1580.42,Transport,Card,Transport purchase at Shell Fuel Station
+T00073,2025-09-28,Uber Rides,360.94,Transport,UPI,Transport purchase at Uber Rides
+T00074,2025-09-29,Shell Fuel Station,2948.97,Transport,Card,Transport purchase at Shell Fuel Station
+T00075,2025-09-29,Water Works Dept,744.41,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00076,2025-09-29,Supermarket Fresh,2404.26,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00077,2025-09-29,StarCoffee Cafe,457.91,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00078,2025-09-30,City Electricity Board,2811.23,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00079,2025-09-30,City Electricity Board,3936.6,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00080,2025-10-01,Amazon Prime,299.0,Subscription,AutoPay,Monthly subscription fee - Amazon Prime
+T00081,2025-10-01,Supermarket Fresh,3453.72,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00082,2025-10-01,Water Works Dept,456.89,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00083,2025-10-01,Uber Rides,244.95,Transport,Card,Transport purchase at Uber Rides
+T00084,2025-10-01,Supermarket Fresh,2174.42,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00085,2025-10-02,Supermarket Fresh,507.95,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00086,2025-10-02,Zomato Food Delivery,891.15,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00087,2025-10-02,Supermarket Fresh,3376.45,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00088,2025-10-03,Google One,149.0,Subscription,AutoPay,Monthly subscription fee - Google One
+T00089,2025-10-03,StarCoffee Cafe,358.51,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00090,2025-10-03,City Electricity Board,1823.69,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00091,2025-10-04,Swiggy Instamart,321.01,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00092,2025-10-05,Spotify,119.0,Subscription,AutoPay,Monthly subscription fee - Spotify
+T00093,2025-10-05,Shell Fuel Station,2539.45,Transport,Card,Transport purchase at Shell Fuel Station
+T00094,2025-10-05,Shell Fuel Station,1731.23,Transport,Card,Transport purchase at Shell Fuel Station
+T00095,2025-10-05,PharmaCare Chemist,1075.34,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00096,2025-10-06,StarCoffee Cafe,182.79,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00097,2025-10-06,StarCoffee Cafe,341.29,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00098,2025-10-06,Uber Rides,616.63,Transport,Card,Transport purchase at Uber Rides
+T00099,2025-10-07,TechStore Electronics,3777.35,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00100,2025-10-07,Zomato Food Delivery,733.58,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00101,2025-10-08,Dropbox,800.0,Subscription,Card,Monthly subscription fee - Dropbox
+T00102,2025-10-08,PharmaCare Chemist,273.31,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00103,2025-10-08,Local Diner,382.74,Dining,UPI,Dining purchase at Local Diner
+T00104,2025-10-08,BookMyShow,908.55,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00105,2025-10-09,Swiggy Instamart,542.28,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00106,2025-10-09,Shell Fuel Station,2574.99,Transport,Card,Transport purchase at Shell Fuel Station
+T00107,2025-10-09,Zomato Food Delivery,576.63,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00108,2025-10-10,YouTube Premium,149.0,Subscription,AutoPay,Monthly subscription fee - YouTube Premium
+T00109,2025-10-10,Adobe,2672.0,Subscription,Card,Monthly subscription fee - Adobe
+T00110,2025-10-10,PharmaCare Chemist,746.89,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00111,2025-10-11,Supermarket Fresh,1400.7,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00112,2025-10-12,Netflix,649.0,Subscription,AutoPay,Monthly subscription fee - Netflix
+T00113,2025-10-12,Uber Rides,520.62,Transport,UPI,Transport purchase at Uber Rides
+T00114,2025-10-12,Zomato Food Delivery,227.06,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00115,2025-10-12,BookMyShow,1294.32,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00116,2025-10-13,Swiggy Instamart,1130.34,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00117,2025-10-13,Uber Rides,170.91,Transport,UPI,Transport purchase at Uber Rides
+T00118,2025-10-13,Supermarket Fresh,3181.61,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00119,2025-10-14,PharmaCare Chemist,272.13,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00120,2025-10-14,Swiggy Instamart,1469.1,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00121,2025-10-15,Microsoft 365,489.0,Subscription,Card,Monthly subscription fee - Microsoft 365
+T00122,2025-10-15,Uber Rides,590.71,Transport,Card,Transport purchase at Uber Rides
+T00123,2025-10-15,Uber Rides,518.28,Transport,UPI,Transport purchase at Uber Rides
+T00124,2025-10-16,PharmaCare Chemist,1398.81,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00125,2025-10-16,Local Diner,433.08,Dining,UPI,Dining purchase at Local Diner
+T00126,2025-10-16,City Electricity Board,3854.85,Utilities,UPI,Utilities purchase at City Electricity Board
+T00127,2025-10-16,Shell Fuel Station,1599.15,Transport,Card,Transport purchase at Shell Fuel Station
+T00128,2025-10-17,CloudBox,799.0,Subscription,AutoPay,Monthly subscription fee - CloudBox
+T00129,2025-10-17,Local Diner,1193.62,Dining,UPI,Dining purchase at Local Diner
+T00130,2025-10-17,Shell Fuel Station,1247.33,Transport,Card,Transport purchase at Shell Fuel Station
+T00131,2025-10-17,City Electricity Board,2386.31,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00132,2025-10-18,NewsPlus,199.0,Subscription,AutoPay,Monthly subscription fee - NewsPlus
+T00133,2025-10-18,TechStore Electronics,7877.04,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00134,2025-10-18,PharmaCare Chemist,1572.1,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00135,2025-10-18,Supermarket Fresh,713.33,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00136,2025-10-19,Swiggy Instamart,1835.56,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00137,2025-10-19,Supermarket Fresh,691.47,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00138,2025-10-20,FitnessPro,499.0,Subscription,AutoPay,Monthly subscription fee - FitnessPro
+T00139,2025-10-20,BookMyShow,1165.07,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00140,2025-10-20,Swiggy Instamart,1872.89,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00141,2025-10-20,City Electricity Board,3928.66,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00142,2025-10-21,Supermarket Fresh,2582.67,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00143,2025-10-21,Zomato Food Delivery,895.67,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00144,2025-10-21,TechStore Electronics,5459.92,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00145,2025-10-22,GamingPlus,699.0,Subscription,Card,Monthly subscription fee - GamingPlus
+T00146,2025-10-22,PharmaCare Chemist,1375.06,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00147,2025-10-22,Zomato Food Delivery,445.78,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00148,2025-10-22,TechStore Electronics,5127.6,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00149,2025-10-23,Shell Fuel Station,2040.89,Transport,Card,Transport purchase at Shell Fuel Station
+T00150,2025-10-23,PharmaCare Chemist,1227.24,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00151,2025-10-24,City Electricity Board,2979.43,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00152,2025-10-24,Local Diner,579.95,Dining,UPI,Dining purchase at Local Diner
+T00153,2025-10-24,Swiggy Instamart,1223.46,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00154,2025-10-25,Substack Pro,399.0,Subscription,Card,Monthly subscription fee - Substack Pro
+T00155,2025-10-25,Water Works Dept,543.19,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00156,2025-10-25,Zomato Food Delivery,565.43,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00157,2025-10-25,PharmaCare Chemist,245.5,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00158,2025-10-25,StarCoffee Cafe,425.53,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00159,2025-10-26,Shell Fuel Station,2813.13,Transport,Card,Transport purchase at Shell Fuel Station
+T00160,2025-10-26,Supermarket Fresh,495.57,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00161,2025-10-26,Swiggy Instamart,1641.55,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00162,2025-10-27,City Electricity Board,3892.57,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00163,2025-10-27,BookMyShow,1065.99,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00164,2025-10-27,City Electricity Board,2158.76,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00165,2025-10-27,StarCoffee Cafe,413.53,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00166,2025-10-28,VPN Shield,299.0,Subscription,Card,Monthly subscription fee - VPN Shield
+T00167,2025-10-28,BookMyShow,869.75,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00168,2025-10-28,Zomato Food Delivery,401.91,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00169,2025-10-29,Uber Rides,550.71,Transport,UPI,Transport purchase at Uber Rides
+T00170,2025-10-29,Water Works Dept,636.96,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00171,2025-10-29,Zomato Food Delivery,545.52,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00172,2025-10-29,BookMyShow,1247.64,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00173,2025-10-30,Shell Fuel Station,2879.73,Transport,Card,Transport purchase at Shell Fuel Station
+T00174,2025-10-30,Zomato Food Delivery,573.76,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00175,2025-10-30,Local Diner,755.85,Dining,UPI,Dining purchase at Local Diner
+T00176,2025-10-31,Local Diner,636.22,Dining,UPI,Dining purchase at Local Diner
+T00177,2025-10-31,Uber Rides,225.42,Transport,UPI,Transport purchase at Uber Rides
+T00178,2025-11-01,Amazon Prime,299.0,Subscription,AutoPay,Monthly subscription fee - Amazon Prime
+T00179,2025-11-01,BookMyShow,535.35,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00180,2025-11-01,City Electricity Board,2393.38,Utilities,UPI,Utilities purchase at City Electricity Board
+T00181,2025-11-02,Supermarket Fresh,1001.53,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00182,2025-11-02,City Electricity Board,3943.06,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00183,2025-11-02,Swiggy Instamart,834.26,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00184,2025-11-02,TechStore Electronics,3934.05,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00185,2025-11-03,Google One,149.0,Subscription,AutoPay,Monthly subscription fee - Google One
+T00186,2025-11-03,Zomato Food Delivery,765.69,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00187,2025-11-03,Water Works Dept,420.68,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00188,2025-11-03,Water Works Dept,315.96,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00189,2025-11-03,PharmaCare Chemist,1125.13,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00190,2025-11-04,Water Works Dept,805.75,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00191,2025-11-04,City Electricity Board,3098.11,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00192,2025-11-05,Spotify,119.0,Subscription,AutoPay,Monthly subscription fee - Spotify
+T00193,2025-11-05,PharmaCare Chemist,754.35,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00194,2025-11-06,Supermarket Fresh,1169.49,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00195,2025-11-06,Shell Fuel Station,2109.4,Transport,Card,Transport purchase at Shell Fuel Station
+T00196,2025-11-07,Local Diner,1114.81,Dining,UPI,Dining purchase at Local Diner
+T00197,2025-11-07,Local Diner,1210.15,Dining,UPI,Dining purchase at Local Diner
+T00198,2025-11-07,Supermarket Fresh,2709.43,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00199,2025-11-07,TechStore Electronics,3078.55,Shopping,Card,Shopping purchase at TechStore Electronics
+T00200,2025-11-08,Dropbox,800.0,Subscription,Card,Monthly subscription fee - Dropbox
+T00201,2025-11-08,Supermarket Fresh,3341.28,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00202,2025-11-09,Swiggy Instamart,442.1,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00203,2025-11-10,YouTube Premium,149.0,Subscription,AutoPay,Monthly subscription fee - YouTube Premium
+T00204,2025-11-10,Adobe,2672.0,Subscription,Card,Monthly subscription fee - Adobe
+T00205,2025-11-10,PharmaCare Chemist,289.3,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00206,2025-11-10,Water Works Dept,684.71,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00207,2025-11-10,Uber Rides,452.95,Transport,Card,Transport purchase at Uber Rides
+T00208,2025-11-10,Uber Rides,632.36,Transport,Card,Transport purchase at Uber Rides
+T00209,2025-11-11,Local Diner,912.17,Dining,UPI,Dining purchase at Local Diner
+T00210,2025-11-12,Netflix,649.0,Subscription,AutoPay,Monthly subscription fee - Netflix
+T00211,2025-11-12,BookMyShow,518.16,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00212,2025-11-12,StarCoffee Cafe,389.16,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00213,2025-11-12,PharmaCare Chemist,1008.61,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00214,2025-11-12,Swiggy Instamart,1526.13,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00215,2025-11-13,PharmaCare Chemist,668.44,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00216,2025-11-13,Supermarket Fresh,3026.16,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00217,2025-11-13,StarCoffee Cafe,310.06,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00218,2025-11-13,PharmaCare Chemist,1439.53,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00219,2025-11-14,City Electricity Board,1975.57,Utilities,UPI,Utilities purchase at City Electricity Board
+T00220,2025-11-14,Swiggy Instamart,1570.1,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00221,2025-11-15,Microsoft 365,489.0,Subscription,Card,Monthly subscription fee - Microsoft 365
+T00222,2025-11-15,City Electricity Board,3729.48,Utilities,UPI,Utilities purchase at City Electricity Board
+T00223,2025-11-15,TechStore Electronics,10294.7,Shopping,Card,Shopping purchase at TechStore Electronics
+T00224,2025-11-15,Local Diner,1263.88,Dining,UPI,Dining purchase at Local Diner
+T00225,2025-11-15,Water Works Dept,613.42,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00226,2025-11-16,Supermarket Fresh,1907.07,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00227,2025-11-16,Uber Rides,393.77,Transport,UPI,Transport purchase at Uber Rides
+T00228,2025-11-16,Local Diner,641.39,Dining,UPI,Dining purchase at Local Diner
+T00229,2025-11-17,CloudBox,799.0,Subscription,AutoPay,Monthly subscription fee - CloudBox
+T00230,2025-11-17,Zomato Food Delivery,912.09,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00231,2025-11-18,NewsPlus,199.0,Subscription,AutoPay,Monthly subscription fee - NewsPlus
+T00232,2025-11-18,BookMyShow,747.07,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00233,2025-11-18,BookMyShow,823.7,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00234,2025-11-19,Supermarket Fresh,643.12,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00235,2025-11-19,City Electricity Board,3367.83,Utilities,UPI,Utilities purchase at City Electricity Board
+T00236,2025-11-19,PharmaCare Chemist,980.7,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00237,2025-11-19,Zomato Food Delivery,607.57,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00238,2025-11-20,FitnessPro,499.0,Subscription,AutoPay,Monthly subscription fee - FitnessPro
+T00239,2025-11-20,TechStore Electronics,8582.83,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00240,2025-11-20,Local Diner,539.11,Dining,UPI,Dining purchase at Local Diner
+T00241,2025-11-20,BookMyShow,511.84,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00242,2025-11-21,Shell Fuel Station,1632.77,Transport,Card,Transport purchase at Shell Fuel Station
+T00243,2025-11-21,Local Diner,1083.27,Dining,UPI,Dining purchase at Local Diner
+T00244,2025-11-22,GamingPlus,699.0,Subscription,Card,Monthly subscription fee - GamingPlus
+T00245,2025-11-22,Shell Fuel Station,1792.49,Transport,Card,Transport purchase at Shell Fuel Station
+T00246,2025-11-23,Local Diner,266.27,Dining,UPI,Dining purchase at Local Diner
+T00247,2025-11-23,Local Diner,302.34,Dining,UPI,Dining purchase at Local Diner
+T00248,2025-11-24,BookMyShow,1338.5,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00249,2025-11-24,StarCoffee Cafe,441.82,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00250,2025-11-24,Water Works Dept,563.29,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00251,2025-11-25,Substack Pro,399.0,Subscription,Card,Monthly subscription fee - Substack Pro
+T00252,2025-11-25,Supermarket Fresh,1145.31,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00253,2025-11-25,StarCoffee Cafe,426.63,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00254,2025-11-26,StarCoffee Cafe,353.11,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00255,2025-11-26,Uber Rides,224.6,Transport,UPI,Transport purchase at Uber Rides
+T00256,2025-11-26,StarCoffee Cafe,478.18,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00257,2025-11-26,Zomato Food Delivery,778.04,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00258,2025-11-27,Water Works Dept,799.68,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00259,2025-11-27,Swiggy Instamart,1882.85,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00260,2025-11-27,Swiggy Instamart,1248.17,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00261,2025-11-27,Shell Fuel Station,2451.03,Transport,Card,Transport purchase at Shell Fuel Station
+T00262,2025-11-28,VPN Shield,299.0,Subscription,Card,Monthly subscription fee - VPN Shield
+T00263,2025-11-28,Uber Rides,269.93,Transport,Card,Transport purchase at Uber Rides
+T00264,2025-11-29,Supermarket Fresh,1636.83,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00265,2025-11-29,Local Diner,287.54,Dining,UPI,Dining purchase at Local Diner
+T00266,2025-11-30,BookMyShow,1245.57,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00267,2025-11-30,PharmaCare Chemist,465.47,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00268,2025-11-30,PharmaCare Chemist,992.89,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00269,2025-12-01,Amazon Prime,299.0,Subscription,AutoPay,Monthly subscription fee - Amazon Prime
+T00270,2025-12-01,StarCoffee Cafe,343.37,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00271,2025-12-01,Local Diner,1200.63,Dining,UPI,Dining purchase at Local Diner
+T00272,2025-12-01,Supermarket Fresh,872.66,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00273,2025-12-01,Swiggy Instamart,1468.21,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00274,2025-12-02,StarCoffee Cafe,320.61,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00275,2025-12-02,BookMyShow,742.76,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00276,2025-12-02,Zomato Food Delivery,614.19,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00277,2025-12-02,StarCoffee Cafe,359.41,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00278,2025-12-03,Google One,149.0,Subscription,AutoPay,Monthly subscription fee - Google One
+T00279,2025-12-03,Swiggy Instamart,610.63,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00280,2025-12-03,Shell Fuel Station,3123.82,Transport,Card,Transport purchase at Shell Fuel Station
+T00281,2025-12-03,PharmaCare Chemist,1335.7,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00282,2025-12-04,Water Works Dept,585.43,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00283,2025-12-04,Local Diner,458.71,Dining,UPI,Dining purchase at Local Diner
+T00284,2025-12-05,Spotify,119.0,Subscription,AutoPay,Monthly subscription fee - Spotify
+T00285,2025-12-05,StarCoffee Cafe,321.0,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00286,2025-12-05,TechStore Electronics,4192.17,Shopping,Card,Shopping purchase at TechStore Electronics
+T00287,2025-12-05,Uber Rides,314.9,Transport,UPI,Transport purchase at Uber Rides
+T00288,2025-12-05,Local Diner,1011.97,Dining,UPI,Dining purchase at Local Diner
+T00289,2025-12-06,Water Works Dept,348.43,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00290,2025-12-07,StarCoffee Cafe,471.06,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00291,2025-12-07,Zomato Food Delivery,822.2,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00292,2025-12-07,PharmaCare Chemist,1406.66,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00293,2025-12-08,Dropbox,800.0,Subscription,Card,Monthly subscription fee - Dropbox
+T00294,2025-12-08,Supermarket Fresh,940.89,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00295,2025-12-08,Swiggy Instamart,1481.08,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00296,2025-12-08,Supermarket Fresh,991.21,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00297,2025-12-08,Local Diner,753.83,Dining,UPI,Dining purchase at Local Diner
+T00298,2025-12-09,Supermarket Fresh,3415.41,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00299,2025-12-10,YouTube Premium,149.0,Subscription,AutoPay,Monthly subscription fee - YouTube Premium
+T00300,2025-12-10,Adobe,2672.0,Subscription,Card,Monthly subscription fee - Adobe
+T00301,2025-12-10,Local Diner,883.46,Dining,UPI,Dining purchase at Local Diner
+T00302,2025-12-10,StarCoffee Cafe,247.41,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00303,2025-12-11,StarCoffee Cafe,374.31,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00304,2025-12-11,Water Works Dept,812.96,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00305,2025-12-11,Zomato Food Delivery,734.95,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00306,2025-12-11,Water Works Dept,839.13,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00307,2025-12-12,Netflix,649.0,Subscription,AutoPay,Monthly subscription fee - Netflix
+T00308,2025-12-12,Zomato Food Delivery,325.59,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00309,2025-12-12,Swiggy Instamart,1054.17,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00310,2025-12-12,StarCoffee Cafe,262.87,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00311,2025-12-12,TechStore Electronics,11243.86,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00312,2025-12-13,Local Diner,1084.96,Dining,UPI,Dining purchase at Local Diner
+T00313,2025-12-14,Water Works Dept,596.22,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00314,2025-12-14,TechStore Electronics,6847.05,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00315,2025-12-15,Microsoft 365,489.0,Subscription,Card,Monthly subscription fee - Microsoft 365
+T00316,2025-12-15,TechStore Electronics,10500.42,Shopping,Card,Shopping purchase at TechStore Electronics
+T00317,2025-12-15,Swiggy Instamart,838.71,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00318,2025-12-15,Supermarket Fresh,1352.26,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00319,2025-12-15,BookMyShow,1304.77,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00320,2025-12-16,PharmaCare Chemist,1292.74,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00321,2025-12-16,Water Works Dept,830.65,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00322,2025-12-16,Zomato Food Delivery,924.71,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00323,2025-12-16,StarCoffee Cafe,442.26,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00324,2025-12-17,CloudBox,799.0,Subscription,AutoPay,Monthly subscription fee - CloudBox
+T00325,2025-12-17,Zomato Food Delivery,884.62,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00326,2025-12-18,NewsPlus,199.0,Subscription,AutoPay,Monthly subscription fee - NewsPlus
+T00327,2025-12-18,City Electricity Board,3851.52,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00328,2025-12-18,StarCoffee Cafe,320.85,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00329,2025-12-19,Swiggy Instamart,1371.45,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00330,2025-12-19,TechStore Electronics,10301.93,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00331,2025-12-19,TechStore Electronics,7708.19,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00332,2025-12-20,FitnessPro,499.0,Subscription,AutoPay,Monthly subscription fee - FitnessPro
+T00333,2025-12-20,Swiggy Instamart,297.68,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00334,2025-12-21,BookMyShow,399.42,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00335,2025-12-21,PharmaCare Chemist,1161.76,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00336,2025-12-22,GamingPlus,699.0,Subscription,Card,Monthly subscription fee - GamingPlus
+T00337,2025-12-22,Uber Rides,497.0,Transport,Card,Transport purchase at Uber Rides
+T00338,2025-12-22,Supermarket Fresh,1371.78,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00339,2025-12-22,Local Diner,662.23,Dining,UPI,Dining purchase at Local Diner
+T00340,2025-12-22,Uber Rides,272.1,Transport,UPI,Transport purchase at Uber Rides
+T00341,2025-12-23,Uber Rides,237.53,Transport,UPI,Transport purchase at Uber Rides
+T00342,2025-12-23,Swiggy Instamart,1354.99,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00343,2025-12-24,Shell Fuel Station,2122.3,Transport,Card,Transport purchase at Shell Fuel Station
+T00344,2025-12-24,Water Works Dept,440.43,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00345,2025-12-25,Substack Pro,399.0,Subscription,Card,Monthly subscription fee - Substack Pro
+T00346,2025-12-25,Local Diner,1029.25,Dining,UPI,Dining purchase at Local Diner
+T00347,2025-12-25,StarCoffee Cafe,312.52,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00348,2025-12-25,Swiggy Instamart,694.55,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00349,2025-12-25,BookMyShow,575.11,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00350,2025-12-26,City Electricity Board,3804.01,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00351,2025-12-26,Shell Fuel Station,1962.73,Transport,Card,Transport purchase at Shell Fuel Station
+T00352,2025-12-27,BookMyShow,624.75,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00353,2025-12-27,Local Diner,259.31,Dining,UPI,Dining purchase at Local Diner
+T00354,2025-12-27,Swiggy Instamart,1461.7,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00355,2025-12-28,VPN Shield,299.0,Subscription,Card,Monthly subscription fee - VPN Shield
+T00356,2025-12-28,Swiggy Instamart,1559.32,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00357,2025-12-28,PharmaCare Chemist,401.4,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00358,2025-12-29,PharmaCare Chemist,263.8,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00359,2025-12-29,Local Diner,1156.9,Dining,UPI,Dining purchase at Local Diner
+T00360,2025-12-30,BookMyShow,444.55,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00361,2025-12-30,TechStore Electronics,9096.03,Shopping,Card,Shopping purchase at TechStore Electronics
+T00362,2025-12-30,Shell Fuel Station,1464.32,Transport,Card,Transport purchase at Shell Fuel Station
+T00363,2025-12-31,Uber Rides,278.49,Transport,UPI,Transport purchase at Uber Rides
+T00364,2025-12-31,Local Diner,1108.54,Dining,UPI,Dining purchase at Local Diner
+T00365,2025-12-31,StarCoffee Cafe,320.5,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00366,2026-01-01,Amazon Prime,299.0,Subscription,AutoPay,Monthly subscription fee - Amazon Prime
+T00367,2026-01-01,Shell Fuel Station,2920.28,Transport,Card,Transport purchase at Shell Fuel Station
+T00368,2026-01-01,Zomato Food Delivery,487.02,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00369,2026-01-02,Local Diner,867.06,Dining,UPI,Dining purchase at Local Diner
+T00370,2026-01-03,Google One,149.0,Subscription,AutoPay,Monthly subscription fee - Google One
+T00371,2026-01-03,PharmaCare Chemist,1228.54,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00372,2026-01-03,Swiggy Instamart,835.36,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00373,2026-01-03,StarCoffee Cafe,382.45,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00374,2026-01-04,Swiggy Instamart,1700.88,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00375,2026-01-05,Spotify,119.0,Subscription,AutoPay,Monthly subscription fee - Spotify
+T00376,2026-01-05,PharmaCare Chemist,213.56,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00377,2026-01-05,BookMyShow,632.41,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00378,2026-01-06,Uber Rides,172.67,Transport,Card,Transport purchase at Uber Rides
+T00379,2026-01-07,Water Works Dept,363.87,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00380,2026-01-07,Zomato Food Delivery,319.03,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00381,2026-01-07,TechStore Electronics,8210.59,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00382,2026-01-08,Dropbox,800.0,Subscription,Card,Monthly subscription fee - Dropbox
+T00383,2026-01-08,City Electricity Board,3268.29,Utilities,UPI,Utilities purchase at City Electricity Board
+T00384,2026-01-08,Swiggy Instamart,881.96,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00385,2026-01-09,BookMyShow,707.58,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00386,2026-01-10,YouTube Premium,149.0,Subscription,AutoPay,Monthly subscription fee - YouTube Premium
+T00387,2026-01-10,Adobe,2672.0,Subscription,Card,Monthly subscription fee - Adobe
+T00388,2026-01-10,Shell Fuel Station,2910.9,Transport,Card,Transport purchase at Shell Fuel Station
+T00389,2026-01-10,PharmaCare Chemist,663.66,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00390,2026-01-10,Supermarket Fresh,1604.14,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00391,2026-01-10,StarCoffee Cafe,464.7,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00392,2026-01-11,PharmaCare Chemist,433.92,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00393,2026-01-12,Netflix,649.0,Subscription,AutoPay,Monthly subscription fee - Netflix
+T00394,2026-01-12,TechStore Electronics,3301.04,Shopping,Card,Shopping purchase at TechStore Electronics
+T00395,2026-01-13,StarCoffee Cafe,428.95,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00396,2026-01-13,Swiggy Instamart,551.44,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00397,2026-01-14,Uber Rides,544.32,Transport,Card,Transport purchase at Uber Rides
+T00398,2026-01-14,Local Diner,1237.17,Dining,UPI,Dining purchase at Local Diner
+T00399,2026-01-14,Uber Rides,420.11,Transport,Card,Transport purchase at Uber Rides
+T00400,2026-01-15,Microsoft 365,489.0,Subscription,Card,Monthly subscription fee - Microsoft 365
+T00401,2026-01-15,PharmaCare Chemist,1402.34,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00402,2026-01-16,TechStore Electronics,9584.82,Shopping,Card,Shopping purchase at TechStore Electronics
+T00403,2026-01-17,CloudBox,799.0,Subscription,AutoPay,Monthly subscription fee - CloudBox
+T00404,2026-01-17,Supermarket Fresh,898.88,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00405,2026-01-17,Uber Rides,520.86,Transport,Card,Transport purchase at Uber Rides
+T00406,2026-01-17,BookMyShow,369.91,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00407,2026-01-18,NewsPlus,199.0,Subscription,AutoPay,Monthly subscription fee - NewsPlus
+T00408,2026-01-18,Zomato Food Delivery,653.38,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00409,2026-01-18,Zomato Food Delivery,381.73,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00410,2026-01-18,BookMyShow,1161.55,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00411,2026-01-19,PharmaCare Chemist,1546.76,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00412,2026-01-19,Water Works Dept,766.01,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00413,2026-01-19,PharmaCare Chemist,279.78,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00414,2026-01-19,StarCoffee Cafe,449.78,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00415,2026-01-20,FitnessPro,499.0,Subscription,AutoPay,Monthly subscription fee - FitnessPro
+T00416,2026-01-20,StarCoffee Cafe,217.86,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00417,2026-01-20,City Electricity Board,4185.49,Utilities,UPI,Utilities purchase at City Electricity Board
+T00418,2026-01-21,Zomato Food Delivery,661.96,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00419,2026-01-21,BookMyShow,425.86,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00420,2026-01-21,City Electricity Board,2719.2,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00421,2026-01-21,City Electricity Board,2415.12,Utilities,UPI,Utilities purchase at City Electricity Board
+T00422,2026-01-22,GamingPlus,699.0,Subscription,Card,Monthly subscription fee - GamingPlus
+T00423,2026-01-22,City Electricity Board,3469.95,Utilities,UPI,Utilities purchase at City Electricity Board
+T00424,2026-01-22,City Electricity Board,2343.81,Utilities,UPI,Utilities purchase at City Electricity Board
+T00425,2026-01-22,TechStore Electronics,11466.31,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00426,2026-01-22,StarCoffee Cafe,207.37,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00427,2026-01-23,City Electricity Board,1760.72,Utilities,UPI,Utilities purchase at City Electricity Board
+T00428,2026-01-24,Zomato Food Delivery,263.79,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00429,2026-01-24,PharmaCare Chemist,300.9,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00430,2026-01-25,Substack Pro,399.0,Subscription,Card,Monthly subscription fee - Substack Pro
+T00431,2026-01-25,BookMyShow,356.59,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00432,2026-01-25,Swiggy Instamart,717.41,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00433,2026-01-25,Swiggy Instamart,1052.75,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00434,2026-01-25,PharmaCare Chemist,833.64,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00435,2026-01-26,Zomato Food Delivery,488.32,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00436,2026-01-26,Swiggy Instamart,568.99,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00437,2026-01-26,Zomato Food Delivery,931.42,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00438,2026-01-27,Supermarket Fresh,918.31,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00439,2026-01-27,TechStore Electronics,4536.77,Shopping,Card,Shopping purchase at TechStore Electronics
+T00440,2026-01-27,Uber Rides,433.16,Transport,UPI,Transport purchase at Uber Rides
+T00441,2026-01-28,VPN Shield,299.0,Subscription,Card,Monthly subscription fee - VPN Shield
+T00442,2026-01-28,Uber Rides,520.48,Transport,Card,Transport purchase at Uber Rides
+T00443,2026-01-29,BookMyShow,883.53,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00444,2026-01-30,Water Works Dept,487.49,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00445,2026-01-30,Local Diner,1079.84,Dining,UPI,Dining purchase at Local Diner
+T00446,2026-01-30,Supermarket Fresh,840.08,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00447,2026-01-30,PharmaCare Chemist,240.74,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00448,2026-01-31,Water Works Dept,633.89,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00449,2026-01-31,Local Diner,497.9,Dining,UPI,Dining purchase at Local Diner
+T00450,2026-01-31,TechStore Electronics,5444.01,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00451,2026-01-31,PharmaCare Chemist,1124.16,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00452,2026-02-01,Amazon Prime,299.0,Subscription,AutoPay,Monthly subscription fee - Amazon Prime
+T00453,2026-02-01,Supermarket Fresh,1044.63,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00454,2026-02-01,Supermarket Fresh,993.93,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00455,2026-02-01,Uber Rides,532.08,Transport,UPI,Transport purchase at Uber Rides
+T00456,2026-02-02,StarCoffee Cafe,182.32,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00457,2026-02-02,Uber Rides,214.59,Transport,Card,Transport purchase at Uber Rides
+T00458,2026-02-02,Zomato Food Delivery,627.87,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00459,2026-02-03,Google One,149.0,Subscription,AutoPay,Monthly subscription fee - Google One
+T00460,2026-02-03,City Electricity Board,3826.76,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00461,2026-02-04,Supermarket Fresh,1798.23,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00462,2026-02-04,TechStore Electronics,7121.23,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00463,2026-02-04,BookMyShow,1004.16,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00464,2026-02-04,StarCoffee Cafe,301.51,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00465,2026-02-05,Spotify,119.0,Subscription,AutoPay,Monthly subscription fee - Spotify
+T00466,2026-02-05,Swiggy Instamart,971.37,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00467,2026-02-05,StarCoffee Cafe,311.01,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00468,2026-02-06,City Electricity Board,3089.95,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00469,2026-02-06,City Electricity Board,3850.42,Utilities,UPI,Utilities purchase at City Electricity Board
+T00470,2026-02-07,TechStore Electronics,9459.86,Shopping,Card,Shopping purchase at TechStore Electronics
+T00471,2026-02-07,Zomato Food Delivery,682.25,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00472,2026-02-08,Dropbox,800.0,Subscription,Card,Monthly subscription fee - Dropbox
+T00473,2026-02-08,TechStore Electronics,8864.86,Shopping,Card,Shopping purchase at TechStore Electronics
+T00474,2026-02-08,Shell Fuel Station,1405.61,Transport,Card,Transport purchase at Shell Fuel Station
+T00475,2026-02-08,Shell Fuel Station,1547.0,Transport,Card,Transport purchase at Shell Fuel Station
+T00476,2026-02-09,Uber Rides,625.65,Transport,UPI,Transport purchase at Uber Rides
+T00477,2026-02-10,YouTube Premium,149.0,Subscription,AutoPay,Monthly subscription fee - YouTube Premium
+T00478,2026-02-10,Adobe,2672.0,Subscription,Card,Monthly subscription fee - Adobe
+T00479,2026-02-10,Swiggy Instamart,1486.99,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00480,2026-02-10,PharmaCare Chemist,1487.75,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00481,2026-02-10,PharmaCare Chemist,587.89,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00482,2026-02-10,StarCoffee Cafe,320.68,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00483,2026-02-11,Swiggy Instamart,276.62,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00484,2026-02-11,Local Diner,781.0,Dining,UPI,Dining purchase at Local Diner
+T00485,2026-02-11,Supermarket Fresh,1511.52,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00486,2026-02-12,Netflix,649.0,Subscription,AutoPay,Monthly subscription fee - Netflix
+T00487,2026-02-12,PharmaCare Chemist,1399.09,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00488,2026-02-13,Water Works Dept,619.18,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00489,2026-02-13,Water Works Dept,799.98,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00490,2026-02-13,TechStore Electronics,7457.57,Shopping,Card,Shopping purchase at TechStore Electronics
+T00491,2026-02-13,Supermarket Fresh,1769.15,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00492,2026-02-14,Zomato Food Delivery,691.67,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00493,2026-02-15,Microsoft 365,489.0,Subscription,Card,Monthly subscription fee - Microsoft 365
+T00494,2026-02-15,BookMyShow,781.53,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00495,2026-02-15,Zomato Food Delivery,601.61,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00496,2026-02-16,TechStore Electronics,11056.27,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00497,2026-02-16,City Electricity Board,3591.05,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00498,2026-02-16,PharmaCare Chemist,1078.01,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00499,2026-02-17,CloudBox,799.0,Subscription,AutoPay,Monthly subscription fee - CloudBox
+T00500,2026-02-17,StarCoffee Cafe,347.39,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00501,2026-02-17,Local Diner,539.8,Dining,UPI,Dining purchase at Local Diner
+T00502,2026-02-17,TechStore Electronics,1437.27,Shopping,Card,Shopping purchase at TechStore Electronics
+T00503,2026-02-18,NewsPlus,199.0,Subscription,AutoPay,Monthly subscription fee - NewsPlus
+T00504,2026-02-18,Local Diner,1362.85,Dining,UPI,Dining purchase at Local Diner
+T00505,2026-02-18,Uber Rides,447.52,Transport,Card,Transport purchase at Uber Rides
+T00506,2026-02-18,Local Diner,892.76,Dining,UPI,Dining purchase at Local Diner
+T00507,2026-02-19,PharmaCare Chemist,1160.19,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00508,2026-02-19,PharmaCare Chemist,1112.27,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00509,2026-02-20,FitnessPro,499.0,Subscription,AutoPay,Monthly subscription fee - FitnessPro
+T00510,2026-02-20,TechStore Electronics,4051.96,Shopping,Card,Shopping purchase at TechStore Electronics
+T00511,2026-02-21,Water Works Dept,405.6,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00512,2026-02-21,Uber Rides,188.58,Transport,Card,Transport purchase at Uber Rides
+T00513,2026-02-21,Zomato Food Delivery,782.74,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00514,2026-02-22,GamingPlus,699.0,Subscription,Card,Monthly subscription fee - GamingPlus
+T00515,2026-02-22,Swiggy Instamart,405.4,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00516,2026-02-22,Uber Rides,231.12,Transport,Card,Transport purchase at Uber Rides
+T00517,2026-02-22,BookMyShow,781.44,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00518,2026-02-23,PharmaCare Chemist,1184.99,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00519,2026-02-23,Swiggy Instamart,670.08,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00520,2026-02-23,Shell Fuel Station,2268.02,Transport,Card,Transport purchase at Shell Fuel Station
+T00521,2026-02-24,Shell Fuel Station,1935.68,Transport,Card,Transport purchase at Shell Fuel Station
+T00522,2026-02-24,Water Works Dept,723.19,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00523,2026-02-24,Zomato Food Delivery,605.05,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00524,2026-02-24,Shell Fuel Station,2802.52,Transport,Card,Transport purchase at Shell Fuel Station
+T00525,2026-02-25,Substack Pro,399.0,Subscription,Card,Monthly subscription fee - Substack Pro
+T00526,2026-02-25,Supermarket Fresh,2369.71,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00527,2026-02-25,Zomato Food Delivery,902.03,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00528,2026-02-25,Local Diner,346.46,Dining,UPI,Dining purchase at Local Diner
+T00529,2026-02-26,Water Works Dept,797.92,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00530,2026-02-26,City Electricity Board,1747.63,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00531,2026-02-26,Water Works Dept,786.55,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00532,2026-02-27,Supermarket Fresh,1598.83,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00533,2026-02-27,Shell Fuel Station,1972.33,Transport,Card,Transport purchase at Shell Fuel Station
+T00534,2026-02-27,TechStore Electronics,3082.2,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00535,2026-02-27,StarCoffee Cafe,431.75,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00536,2026-02-28,VPN Shield,299.0,Subscription,Card,Monthly subscription fee - VPN Shield
+T00537,2026-02-28,Uber Rides,169.15,Transport,UPI,Transport purchase at Uber Rides
+T00538,2026-02-28,BookMyShow,1214.22,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00539,2026-03-01,Amazon Prime,299.0,Subscription,AutoPay,Monthly subscription fee - Amazon Prime
+T00540,2026-03-01,Swiggy Instamart,189.03,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00541,2026-03-01,Supermarket Fresh,1156.16,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00542,2026-03-01,Zomato Food Delivery,906.36,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00543,2026-03-01,StarCoffee Cafe,412.85,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00544,2026-03-02,StarCoffee Cafe,194.32,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00545,2026-03-02,PharmaCare Chemist,1294.97,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00546,2026-03-02,StarCoffee Cafe,213.26,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00547,2026-03-03,Google One,149.0,Subscription,AutoPay,Monthly subscription fee - Google One
+T00548,2026-03-03,PharmaCare Chemist,882.76,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00549,2026-03-04,Local Diner,743.62,Dining,UPI,Dining purchase at Local Diner
+T00550,2026-03-04,Shell Fuel Station,2341.33,Transport,Card,Transport purchase at Shell Fuel Station
+T00551,2026-03-05,Spotify,119.0,Subscription,AutoPay,Monthly subscription fee - Spotify
+T00552,2026-03-05,Zomato Food Delivery,931.5,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00553,2026-03-06,City Electricity Board,3857.99,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00554,2026-03-07,TechStore Electronics,3416.98,Shopping,Card,Shopping purchase at TechStore Electronics
+T00555,2026-03-07,TechStore Electronics,9567.98,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00556,2026-03-07,Shell Fuel Station,2665.88,Transport,Card,Transport purchase at Shell Fuel Station
+T00557,2026-03-07,Swiggy Instamart,1444.52,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00558,2026-03-08,Dropbox,800.0,Subscription,Card,Monthly subscription fee - Dropbox
+T00559,2026-03-08,Supermarket Fresh,1459.74,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00560,2026-03-08,PharmaCare Chemist,379.13,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00561,2026-03-09,PharmaCare Chemist,389.77,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00562,2026-03-09,StarCoffee Cafe,394.81,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00563,2026-03-09,Supermarket Fresh,1274.34,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00564,2026-03-09,Shell Fuel Station,2971.58,Transport,Card,Transport purchase at Shell Fuel Station
+T00565,2026-03-10,YouTube Premium,149.0,Subscription,AutoPay,Monthly subscription fee - YouTube Premium
+T00566,2026-03-10,Adobe,2672.0,Subscription,Card,Monthly subscription fee - Adobe
+T00567,2026-03-10,Zomato Food Delivery,510.7,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00568,2026-03-10,Local Diner,292.11,Dining,UPI,Dining purchase at Local Diner
+T00569,2026-03-10,Local Diner,660.52,Dining,UPI,Dining purchase at Local Diner
+T00570,2026-03-11,Local Diner,393.15,Dining,UPI,Dining purchase at Local Diner
+T00571,2026-03-11,City Electricity Board,3901.61,Utilities,UPI,Utilities purchase at City Electricity Board
+T00572,2026-03-11,City Electricity Board,2415.4,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00573,2026-03-12,Netflix,649.0,Subscription,AutoPay,Monthly subscription fee - Netflix
+T00574,2026-03-12,BookMyShow,847.28,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00575,2026-03-12,StarCoffee Cafe,398.12,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00576,2026-03-12,City Electricity Board,3126.62,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00577,2026-03-12,Zomato Food Delivery,434.45,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00578,2026-03-13,TechStore Electronics,8100.57,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00579,2026-03-14,Swiggy Instamart,1414.38,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00580,2026-03-14,BookMyShow,788.3,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00581,2026-03-14,Supermarket Fresh,2639.47,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00582,2026-03-14,Swiggy Instamart,1896.82,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00583,2026-03-15,Microsoft 365,489.0,Subscription,Card,Monthly subscription fee - Microsoft 365
+T00584,2026-03-15,StarCoffee Cafe,381.36,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00585,2026-03-16,Zomato Food Delivery,804.8,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00586,2026-03-16,Supermarket Fresh,799.76,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00587,2026-03-16,Supermarket Fresh,747.62,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00588,2026-03-17,CloudBox,799.0,Subscription,AutoPay,Monthly subscription fee - CloudBox
+T00589,2026-03-17,TechStore Electronics,4902.83,Shopping,Card,Shopping purchase at TechStore Electronics
+T00590,2026-03-17,Swiggy Instamart,443.91,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00591,2026-03-17,TechStore Electronics,4778.15,Shopping,Card,Shopping purchase at TechStore Electronics
+T00592,2026-03-18,NewsPlus,199.0,Subscription,AutoPay,Monthly subscription fee - NewsPlus
+T00593,2026-03-18,Zomato Food Delivery,487.87,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00594,2026-03-18,PharmaCare Chemist,532.46,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00595,2026-03-19,BookMyShow,504.65,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00596,2026-03-20,FitnessPro,499.0,Subscription,AutoPay,Monthly subscription fee - FitnessPro
+T00597,2026-03-20,Local Diner,1141.21,Dining,UPI,Dining purchase at Local Diner
+T00598,2026-03-21,Swiggy Instamart,671.19,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00599,2026-03-21,Shell Fuel Station,1445.27,Transport,Card,Transport purchase at Shell Fuel Station
+T00600,2026-03-22,GamingPlus,699.0,Subscription,Card,Monthly subscription fee - GamingPlus
+T00601,2026-03-22,Uber Rides,599.34,Transport,UPI,Transport purchase at Uber Rides
+T00602,2026-03-22,StarCoffee Cafe,423.15,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00603,2026-03-22,PharmaCare Chemist,634.19,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00604,2026-03-22,Zomato Food Delivery,615.79,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00605,2026-03-23,BookMyShow,1080.52,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00606,2026-03-23,TechStore Electronics,6350.69,Shopping,Card,Shopping purchase at TechStore Electronics
+T00607,2026-03-24,Uber Rides,268.37,Transport,UPI,Transport purchase at Uber Rides
+T00608,2026-03-24,Supermarket Fresh,1486.82,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00609,2026-03-25,Substack Pro,399.0,Subscription,Card,Monthly subscription fee - Substack Pro
+T00610,2026-03-25,Zomato Food Delivery,314.73,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00611,2026-03-25,StarCoffee Cafe,272.79,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00612,2026-03-25,Zomato Food Delivery,519.88,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00613,2026-03-25,Swiggy Instamart,306.85,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00614,2026-03-26,Water Works Dept,556.21,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00615,2026-03-27,Zomato Food Delivery,687.05,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00616,2026-03-27,Uber Rides,366.31,Transport,Card,Transport purchase at Uber Rides
+T00617,2026-03-28,VPN Shield,299.0,Subscription,Card,Monthly subscription fee - VPN Shield
+T00618,2026-03-28,Zomato Food Delivery,331.7,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00619,2026-03-29,TechStore Electronics,11249.49,Shopping,Card,Shopping purchase at TechStore Electronics
+T00620,2026-03-29,TechStore Electronics,11396.06,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00621,2026-03-30,Local Diner,475.75,Dining,UPI,Dining purchase at Local Diner
+T00622,2026-03-31,PharmaCare Chemist,568.18,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00623,2026-03-31,Zomato Food Delivery,687.92,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00624,2026-04-01,Amazon Prime,299.0,Subscription,AutoPay,Monthly subscription fee - Amazon Prime
+T00625,2026-04-01,PharmaCare Chemist,1044.23,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00626,2026-04-01,Swiggy Instamart,250.85,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00627,2026-04-02,Supermarket Fresh,3337.92,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00628,2026-04-03,Google One,149.0,Subscription,AutoPay,Monthly subscription fee - Google One
+T00629,2026-04-03,Swiggy Instamart,896.53,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00630,2026-04-03,Water Works Dept,788.95,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00631,2026-04-04,Water Works Dept,434.68,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00632,2026-04-04,Local Diner,771.58,Dining,UPI,Dining purchase at Local Diner
+T00633,2026-04-04,Uber Rides,369.8,Transport,UPI,Transport purchase at Uber Rides
+T00634,2026-04-05,Spotify,119.0,Subscription,AutoPay,Monthly subscription fee - Spotify
+T00635,2026-04-05,Shell Fuel Station,1880.39,Transport,Card,Transport purchase at Shell Fuel Station
+T00636,2026-04-05,TechStore Electronics,10407.08,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00637,2026-04-05,BookMyShow,1386.83,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00638,2026-04-05,City Electricity Board,1853.07,Utilities,UPI,Utilities purchase at City Electricity Board
+T00639,2026-04-06,TechStore Electronics,3279.99,Shopping,Card,Shopping purchase at TechStore Electronics
+T00640,2026-04-07,Water Works Dept,436.36,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00641,2026-04-07,Supermarket Fresh,1264.17,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00642,2026-04-07,Swiggy Instamart,899.19,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00643,2026-04-08,Dropbox,800.0,Subscription,Card,Monthly subscription fee - Dropbox
+T00644,2026-04-08,Swiggy Instamart,1420.34,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00645,2026-04-08,Uber Rides,399.13,Transport,UPI,Transport purchase at Uber Rides
+T00646,2026-04-08,Water Works Dept,783.49,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00647,2026-04-09,StarCoffee Cafe,463.57,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00648,2026-04-10,YouTube Premium,149.0,Subscription,AutoPay,Monthly subscription fee - YouTube Premium
+T00649,2026-04-10,Adobe,2672.0,Subscription,Card,Monthly subscription fee - Adobe
+T00650,2026-04-10,Shell Fuel Station,2366.69,Transport,Card,Transport purchase at Shell Fuel Station
+T00651,2026-04-10,Supermarket Fresh,1236.27,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00652,2026-04-11,Zomato Food Delivery,225.97,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00653,2026-04-11,City Electricity Board,1861.62,Utilities,UPI,Utilities purchase at City Electricity Board
+T00654,2026-04-11,BookMyShow,702.36,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00655,2026-04-12,Netflix,649.0,Subscription,AutoPay,Monthly subscription fee - Netflix
+T00656,2026-04-12,Supermarket Fresh,1611.83,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00657,2026-04-12,TechStore Electronics,6862.06,Shopping,Card,Shopping purchase at TechStore Electronics
+T00658,2026-04-12,City Electricity Board,2861.49,Utilities,UPI,Utilities purchase at City Electricity Board
+T00659,2026-04-13,Uber Rides,637.54,Transport,UPI,Transport purchase at Uber Rides
+T00660,2026-04-14,TechStore Electronics,6915.07,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00661,2026-04-14,Uber Rides,249.53,Transport,UPI,Transport purchase at Uber Rides
+T00662,2026-04-14,Zomato Food Delivery,249.39,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00663,2026-04-15,Microsoft 365,489.0,Subscription,Card,Monthly subscription fee - Microsoft 365
+T00664,2026-04-15,BookMyShow,666.34,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00665,2026-04-15,Zomato Food Delivery,553.6,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00666,2026-04-16,Swiggy Instamart,727.87,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00667,2026-04-16,Swiggy Instamart,1451.63,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00668,2026-04-16,Swiggy Instamart,758.56,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00669,2026-04-17,CloudBox,799.0,Subscription,AutoPay,Monthly subscription fee - CloudBox
+T00670,2026-04-17,Water Works Dept,748.66,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00671,2026-04-17,TechStore Electronics,8248.77,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00672,2026-04-17,Swiggy Instamart,709.21,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00673,2026-04-18,NewsPlus,199.0,Subscription,AutoPay,Monthly subscription fee - NewsPlus
+T00674,2026-04-18,Local Diner,1362.13,Dining,UPI,Dining purchase at Local Diner
+T00675,2026-04-18,BookMyShow,356.49,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00676,2026-04-18,Uber Rides,412.12,Transport,UPI,Transport purchase at Uber Rides
+T00677,2026-04-18,Uber Rides,560.83,Transport,Card,Transport purchase at Uber Rides
+T00678,2026-04-19,Swiggy Instamart,1810.91,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00679,2026-04-20,FitnessPro,499.0,Subscription,AutoPay,Monthly subscription fee - FitnessPro
+T00680,2026-04-20,Supermarket Fresh,1739.27,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00681,2026-04-20,Uber Rides,356.48,Transport,Card,Transport purchase at Uber Rides
+T00682,2026-04-21,Zomato Food Delivery,785.73,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00683,2026-04-21,BookMyShow,1100.14,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00684,2026-04-21,Zomato Food Delivery,371.36,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00685,2026-04-21,PharmaCare Chemist,827.99,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00686,2026-04-22,GamingPlus,699.0,Subscription,Card,Monthly subscription fee - GamingPlus
+T00687,2026-04-22,Uber Rides,379.83,Transport,UPI,Transport purchase at Uber Rides
+T00688,2026-04-22,Zomato Food Delivery,478.63,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00689,2026-04-22,Swiggy Instamart,1012.79,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00690,2026-04-23,Zomato Food Delivery,437.9,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00691,2026-04-23,Local Diner,1060.64,Dining,UPI,Dining purchase at Local Diner
+T00692,2026-04-23,TechStore Electronics,6017.74,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00693,2026-04-24,StarCoffee Cafe,352.04,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00694,2026-04-24,City Electricity Board,3709.62,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00695,2026-04-24,Local Diner,298.38,Dining,UPI,Dining purchase at Local Diner
+T00696,2026-04-25,Substack Pro,399.0,Subscription,Card,Monthly subscription fee - Substack Pro
+T00697,2026-04-25,Water Works Dept,660.78,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00698,2026-04-25,Shell Fuel Station,1604.14,Transport,Card,Transport purchase at Shell Fuel Station
+T00699,2026-04-25,Zomato Food Delivery,728.21,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00700,2026-04-26,Swiggy Instamart,1454.33,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00701,2026-04-27,Supermarket Fresh,2459.98,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00702,2026-04-27,PharmaCare Chemist,464.6,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00703,2026-04-28,VPN Shield,299.0,Subscription,Card,Monthly subscription fee - VPN Shield
+T00704,2026-04-28,TechStore Electronics,8749.62,Shopping,Card,Shopping purchase at TechStore Electronics
+T00705,2026-04-28,PharmaCare Chemist,1260.73,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00706,2026-04-28,Zomato Food Delivery,933.87,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00707,2026-04-28,City Electricity Board,3262.81,Utilities,UPI,Utilities purchase at City Electricity Board
+T00708,2026-04-29,PharmaCare Chemist,415.19,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00709,2026-04-29,TechStore Electronics,3782.28,Shopping,Card,Shopping purchase at TechStore Electronics
+T00710,2026-04-29,StarCoffee Cafe,375.69,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00711,2026-04-29,Zomato Food Delivery,759.24,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00712,2026-04-30,City Electricity Board,3882.06,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00713,2026-04-30,Supermarket Fresh,3491.09,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00714,2026-05-01,Amazon Prime,299.0,Subscription,AutoPay,Monthly subscription fee - Amazon Prime
+T00715,2026-05-01,Uber Rides,618.3,Transport,UPI,Transport purchase at Uber Rides
+T00716,2026-05-01,Supermarket Fresh,379.19,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00717,2026-05-01,TechStore Electronics,3772.46,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00718,2026-05-01,Uber Rides,575.53,Transport,UPI,Transport purchase at Uber Rides
+T00719,2026-05-02,Shell Fuel Station,2817.63,Transport,Card,Transport purchase at Shell Fuel Station
+T00720,2026-05-02,Uber Rides,515.56,Transport,UPI,Transport purchase at Uber Rides
+T00721,2026-05-02,BookMyShow,504.82,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00722,2026-05-03,Google One,149.0,Subscription,AutoPay,Monthly subscription fee - Google One
+T00723,2026-05-03,Swiggy Instamart,1339.97,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00724,2026-05-03,Uber Rides,455.48,Transport,UPI,Transport purchase at Uber Rides
+T00725,2026-05-03,City Electricity Board,2891.26,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00726,2026-05-04,PharmaCare Chemist,261.17,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00727,2026-05-04,Water Works Dept,477.98,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00728,2026-05-04,Supermarket Fresh,1171.47,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00729,2026-05-04,Water Works Dept,714.57,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00730,2026-05-05,Spotify,119.0,Subscription,AutoPay,Monthly subscription fee - Spotify
+T00731,2026-05-05,Swiggy Instamart,1423.36,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00732,2026-05-05,Local Diner,1001.74,Dining,UPI,Dining purchase at Local Diner
+T00733,2026-05-05,Supermarket Fresh,2453.53,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00734,2026-05-06,Uber Rides,352.71,Transport,UPI,Transport purchase at Uber Rides
+T00735,2026-05-06,BookMyShow,429.16,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00736,2026-05-06,TechStore Electronics,7568.19,Shopping,Card,Shopping purchase at TechStore Electronics
+T00737,2026-05-07,Water Works Dept,384.25,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00738,2026-05-07,City Electricity Board,3395.24,Utilities,UPI,Utilities purchase at City Electricity Board
+T00739,2026-05-08,Dropbox,800.0,Subscription,Card,Monthly subscription fee - Dropbox
+T00740,2026-05-08,Shell Fuel Station,2560.68,Transport,Card,Transport purchase at Shell Fuel Station
+T00741,2026-05-08,Zomato Food Delivery,546.13,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00742,2026-05-09,Swiggy Instamart,373.0,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00743,2026-05-10,YouTube Premium,149.0,Subscription,AutoPay,Monthly subscription fee - YouTube Premium
+T00744,2026-05-10,Adobe,2672.0,Subscription,Card,Monthly subscription fee - Adobe
+T00745,2026-05-10,Uber Rides,314.06,Transport,UPI,Transport purchase at Uber Rides
+T00746,2026-05-10,StarCoffee Cafe,384.09,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00747,2026-05-11,Zomato Food Delivery,545.2,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00748,2026-05-12,Netflix,649.0,Subscription,AutoPay,Monthly subscription fee - Netflix
+T00749,2026-05-12,Uber Rides,406.62,Transport,UPI,Transport purchase at Uber Rides
+T00750,2026-05-12,Swiggy Instamart,279.31,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00751,2026-05-12,PharmaCare Chemist,1314.23,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00752,2026-05-12,City Electricity Board,2187.03,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00753,2026-05-13,Swiggy Instamart,305.61,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00754,2026-05-13,TechStore Electronics,8554.43,Shopping,Card,Shopping purchase at TechStore Electronics
+T00755,2026-05-14,Water Works Dept,317.45,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00756,2026-05-15,Microsoft 365,489.0,Subscription,Card,Monthly subscription fee - Microsoft 365
+T00757,2026-05-15,Uber Rides,532.91,Transport,UPI,Transport purchase at Uber Rides
+T00758,2026-05-15,TechStore Electronics,11917.85,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00759,2026-05-16,City Electricity Board,2514.24,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00760,2026-05-16,PharmaCare Chemist,1393.22,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00761,2026-05-16,Uber Rides,646.42,Transport,UPI,Transport purchase at Uber Rides
+T00762,2026-05-16,Zomato Food Delivery,312.96,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00763,2026-05-17,CloudBox,799.0,Subscription,AutoPay,Monthly subscription fee - CloudBox
+T00764,2026-05-17,Supermarket Fresh,3432.25,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00765,2026-05-18,NewsPlus,249.0,Subscription,AutoPay,Monthly subscription fee - NewsPlus
+T00766,2026-05-18,Zomato Food Delivery,496.87,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00767,2026-05-18,Shell Fuel Station,2121.25,Transport,Card,Transport purchase at Shell Fuel Station
+T00768,2026-05-18,Local Diner,466.75,Dining,UPI,Dining purchase at Local Diner
+T00769,2026-05-18,Supermarket Fresh,2899.86,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00770,2026-05-19,Shell Fuel Station,1612.16,Transport,Card,Transport purchase at Shell Fuel Station
+T00771,2026-05-20,FitnessPro,499.0,Subscription,AutoPay,Monthly subscription fee - FitnessPro
+T00772,2026-05-20,Water Works Dept,628.78,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00773,2026-05-21,BookMyShow,348.66,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00774,2026-05-21,Shell Fuel Station,2279.52,Transport,Card,Transport purchase at Shell Fuel Station
+T00775,2026-05-22,GamingPlus,699.0,Subscription,Card,Monthly subscription fee - GamingPlus
+T00776,2026-05-22,Zomato Food Delivery,945.24,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00777,2026-05-22,BookMyShow,933.72,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00778,2026-05-23,Local Diner,1257.7,Dining,UPI,Dining purchase at Local Diner
+T00779,2026-05-23,City Electricity Board,2311.35,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00780,2026-05-24,PharmaCare Chemist,1124.55,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00781,2026-05-24,Supermarket Fresh,3412.71,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00782,2026-05-25,Substack Pro,399.0,Subscription,Card,Monthly subscription fee - Substack Pro
+T00783,2026-05-25,BookMyShow,757.96,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00784,2026-05-25,Local Diner,682.93,Dining,UPI,Dining purchase at Local Diner
+T00785,2026-05-25,Shell Fuel Station,2898.68,Transport,Card,Transport purchase at Shell Fuel Station
+T00786,2026-05-26,Water Works Dept,803.11,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00787,2026-05-26,City Electricity Board,3004.67,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00788,2026-05-27,Shell Fuel Station,1709.99,Transport,Card,Transport purchase at Shell Fuel Station
+T00789,2026-05-27,PharmaCare Chemist,237.02,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00790,2026-05-27,TechStore Electronics,1563.34,Shopping,Card,Shopping purchase at TechStore Electronics
+T00791,2026-05-27,Supermarket Fresh,1195.65,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00792,2026-05-28,VPN Shield,299.0,Subscription,Card,Monthly subscription fee - VPN Shield
+T00793,2026-05-28,Shell Fuel Station,2809.3,Transport,Card,Transport purchase at Shell Fuel Station
+T00794,2026-05-29,Shell Fuel Station,2938.95,Transport,Card,Transport purchase at Shell Fuel Station
+T00795,2026-05-29,Local Diner,1350.57,Dining,UPI,Dining purchase at Local Diner
+T00796,2026-05-29,Shell Fuel Station,3074.32,Transport,Card,Transport purchase at Shell Fuel Station
+T00797,2026-05-29,BookMyShow,1399.53,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00798,2026-05-30,BookMyShow,964.84,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00799,2026-05-30,City Electricity Board,3970.84,Utilities,UPI,Utilities purchase at City Electricity Board
+T00800,2026-05-31,City Electricity Board,2758.88,Utilities,UPI,Utilities purchase at City Electricity Board
+T00801,2026-05-31,Local Diner,550.8,Dining,UPI,Dining purchase at Local Diner
+T00802,2026-05-31,Water Works Dept,354.23,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00803,2026-06-01,Amazon Prime,299.0,Subscription,AutoPay,Monthly subscription fee - Amazon Prime
+T00804,2026-06-01,Shell Fuel Station,1941.41,Transport,Card,Transport purchase at Shell Fuel Station
+T00805,2026-06-01,Supermarket Fresh,2121.95,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00806,2026-06-01,BookMyShow,460.51,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00807,2026-06-02,Local Diner,425.27,Dining,UPI,Dining purchase at Local Diner
+T00808,2026-06-02,Shell Fuel Station,1959.68,Transport,Card,Transport purchase at Shell Fuel Station
+T00809,2026-06-02,Water Works Dept,602.85,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00810,2026-06-02,Local Diner,1127.86,Dining,UPI,Dining purchase at Local Diner
+T00811,2026-06-03,Google One,149.0,Subscription,AutoPay,Monthly subscription fee - Google One
+T00812,2026-06-03,Water Works Dept,392.53,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00813,2026-06-03,Uber Rides,219.98,Transport,UPI,Transport purchase at Uber Rides
+T00814,2026-06-03,Uber Rides,608.45,Transport,Card,Transport purchase at Uber Rides
+T00815,2026-06-03,Zomato Food Delivery,244.69,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00816,2026-06-04,Supermarket Fresh,1649.04,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00817,2026-06-05,Spotify,119.0,Subscription,AutoPay,Monthly subscription fee - Spotify
+T00818,2026-06-05,BookMyShow,466.13,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00819,2026-06-06,TechStore Electronics,1195.18,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00820,2026-06-06,PharmaCare Chemist,842.02,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00821,2026-06-06,Zomato Food Delivery,622.7,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00822,2026-06-06,Supermarket Fresh,2017.67,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00823,2026-06-07,Supermarket Fresh,1931.98,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00824,2026-06-07,Uber Rides,203.51,Transport,Card,Transport purchase at Uber Rides
+T00825,2026-06-07,Zomato Food Delivery,328.7,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00826,2026-06-08,Dropbox,800.0,Subscription,Card,Monthly subscription fee - Dropbox
+T00827,2026-06-08,TechStore Electronics,3574.23,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00828,2026-06-08,StarCoffee Cafe,291.92,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00829,2026-06-08,Water Works Dept,610.75,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00830,2026-06-09,PharmaCare Chemist,1345.53,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00831,2026-06-09,PharmaCare Chemist,1587.68,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00832,2026-06-09,StarCoffee Cafe,301.58,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00833,2026-06-10,YouTube Premium,149.0,Subscription,AutoPay,Monthly subscription fee - YouTube Premium
+T00834,2026-06-10,Adobe,2672.0,Subscription,Card,Monthly subscription fee - Adobe
+T00835,2026-06-10,Supermarket Fresh,2355.76,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00836,2026-06-10,StarCoffee Cafe,329.96,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00837,2026-06-10,PharmaCare Chemist,1280.88,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00838,2026-06-10,Zomato Food Delivery,890.98,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00839,2026-06-11,BookMyShow,1276.31,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00840,2026-06-11,Local Diner,303.55,Dining,UPI,Dining purchase at Local Diner
+T00841,2026-06-12,Netflix,799.0,Subscription,AutoPay,Monthly subscription fee - Netflix
+T00842,2026-06-12,Zomato Food Delivery,631.36,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00843,2026-06-12,Uber Rides,614.38,Transport,UPI,Transport purchase at Uber Rides
+T00844,2026-06-12,Supermarket Fresh,3378.63,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00845,2026-06-13,StarCoffee Cafe,269.78,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00846,2026-06-13,Swiggy Instamart,1615.6,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00847,2026-06-13,PharmaCare Chemist,1446.86,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00848,2026-06-13,City Electricity Board,3540.15,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00849,2026-06-14,Zomato Food Delivery,764.18,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00850,2026-06-15,Microsoft 365,489.0,Subscription,Card,Monthly subscription fee - Microsoft 365
+T00851,2026-06-15,StarCoffee Cafe,311.13,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00852,2026-06-16,Swiggy Instamart,1502.69,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00853,2026-06-16,TechStore Electronics,840.7,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00854,2026-06-16,Water Works Dept,569.83,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00855,2026-06-17,CloudBox,799.0,Subscription,AutoPay,Monthly subscription fee - CloudBox
+T00856,2026-06-17,City Electricity Board,2001.49,Utilities,UPI,Utilities purchase at City Electricity Board
+T00857,2026-06-17,StarCoffee Cafe,411.65,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00858,2026-06-17,Shell Fuel Station,2626.22,Transport,Card,Transport purchase at Shell Fuel Station
+T00859,2026-06-17,Local Diner,427.35,Dining,UPI,Dining purchase at Local Diner
+T00860,2026-06-18,NewsPlus,249.0,Subscription,AutoPay,Monthly subscription fee - NewsPlus
+T00861,2026-06-18,TechStore Electronics,4648.05,Shopping,Card,Shopping purchase at TechStore Electronics
+T00862,2026-06-18,Supermarket Fresh,3320.32,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00863,2026-06-18,TechStore Electronics,9255.48,Shopping,Card,Shopping purchase at TechStore Electronics
+T00864,2026-06-18,Uber Rides,193.65,Transport,UPI,Transport purchase at Uber Rides
+T00865,2026-06-19,Zomato Food Delivery,624.96,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00866,2026-06-19,StarCoffee Cafe,187.88,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00867,2026-06-19,Zomato Food Delivery,287.94,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00868,2026-06-19,City Electricity Board,1533.32,Utilities,UPI,Utilities purchase at City Electricity Board
+T00869,2026-06-20,FitnessPro,499.0,Subscription,AutoPay,Monthly subscription fee - FitnessPro
+T00870,2026-06-20,StarCoffee Cafe,397.45,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00871,2026-06-20,Swiggy Instamart,1076.3,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00872,2026-06-20,Uber Rides,219.42,Transport,UPI,Transport purchase at Uber Rides
+T00873,2026-06-20,Local Diner,817.09,Dining,UPI,Dining purchase at Local Diner
+T00874,2026-06-21,City Electricity Board,2245.1,Utilities,UPI,Utilities purchase at City Electricity Board
+T00875,2026-06-21,Water Works Dept,730.47,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00876,2026-06-22,GamingPlus,699.0,Subscription,Card,Monthly subscription fee - GamingPlus
+T00877,2026-06-22,Shell Fuel Station,2641.8,Transport,Card,Transport purchase at Shell Fuel Station
+T00878,2026-06-22,Swiggy Instamart,1240.67,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00879,2026-06-22,StarCoffee Cafe,220.65,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00880,2026-06-23,TechStore Electronics,10178.55,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00881,2026-06-23,TechStore Electronics,5562.56,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00882,2026-06-23,PharmaCare Chemist,1561.85,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00883,2026-06-23,Local Diner,618.76,Dining,UPI,Dining purchase at Local Diner
+T00884,2026-06-24,TechStore Electronics,2542.83,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00885,2026-06-24,TechStore Electronics,3851.65,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00886,2026-06-24,Swiggy Instamart,1525.0,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00887,2026-06-24,City Electricity Board,2256.81,Utilities,UPI,Utilities purchase at City Electricity Board
+T00888,2026-06-25,Substack Pro,399.0,Subscription,Card,Monthly subscription fee - Substack Pro
+T00889,2026-06-25,StarCoffee Cafe,459.62,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00890,2026-06-25,Swiggy Instamart,1895.3,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00891,2026-06-25,PharmaCare Chemist,1256.07,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00892,2026-06-26,BookMyShow,530.61,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00893,2026-06-26,BookMyShow,376.07,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00894,2026-06-26,PharmaCare Chemist,858.97,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00895,2026-06-26,Shell Fuel Station,1705.36,Transport,Card,Transport purchase at Shell Fuel Station
+T00896,2026-06-27,City Electricity Board,1699.71,Utilities,UPI,Utilities purchase at City Electricity Board
+T00897,2026-06-27,Swiggy Instamart,869.38,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00898,2026-06-27,Zomato Food Delivery,246.84,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00899,2026-06-27,BookMyShow,1285.05,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00900,2026-06-28,VPN Shield,299.0,Subscription,Card,Monthly subscription fee - VPN Shield
+T00901,2026-06-28,Shell Fuel Station,2515.2,Transport,Card,Transport purchase at Shell Fuel Station
+T00902,2026-06-29,PharmaCare Chemist,1026.76,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00903,2026-06-29,TechStore Electronics,11605.74,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00904,2026-06-30,Supermarket Fresh,660.61,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00905,2026-07-01,Amazon Prime,299.0,Subscription,AutoPay,Monthly subscription fee - Amazon Prime
+T00906,2026-07-01,Water Works Dept,505.77,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00907,2026-07-01,PharmaCare Chemist,991.11,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00908,2026-07-02,Supermarket Fresh,1870.73,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00909,2026-07-02,City Electricity Board,3985.48,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00910,2026-07-02,StarCoffee Cafe,429.4,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00911,2026-07-03,Google One,149.0,Subscription,AutoPay,Monthly subscription fee - Google One
+T00912,2026-07-03,Local Diner,644.53,Dining,UPI,Dining purchase at Local Diner
+T00913,2026-07-03,Zomato Food Delivery,572.54,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00914,2026-07-03,StarCoffee Cafe,311.45,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00915,2026-07-04,StarCoffee Cafe,270.08,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00916,2026-07-04,Supermarket Fresh,3024.92,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00917,2026-07-04,PharmaCare Chemist,1304.07,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00918,2026-07-05,Spotify,119.0,Subscription,AutoPay,Monthly subscription fee - Spotify
+T00919,2026-07-05,Zomato Food Delivery,336.9,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00920,2026-07-05,Water Works Dept,427.52,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00921,2026-07-06,Uber Rides,470.24,Transport,UPI,Transport purchase at Uber Rides
+T00922,2026-07-06,City Electricity Board,1578.82,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00923,2026-07-07,Swiggy Instamart,918.83,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00924,2026-07-07,BookMyShow,536.28,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00925,2026-07-07,BookMyShow,1189.6,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00926,2026-07-07,Swiggy Instamart,355.01,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00927,2026-07-08,Dropbox,800.0,Subscription,Card,Monthly subscription fee - Dropbox
+T00928,2026-07-08,TechStore Electronics,2766.35,Shopping,Card,Shopping purchase at TechStore Electronics
+T00929,2026-07-08,Local Diner,1021.31,Dining,UPI,Dining purchase at Local Diner
+T00930,2026-07-08,Zomato Food Delivery,925.12,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00931,2026-07-09,Swiggy Instamart,855.18,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00932,2026-07-09,TechStore Electronics,4547.83,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T00933,2026-07-09,Swiggy Instamart,476.75,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00934,2026-07-09,Swiggy Instamart,1195.09,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00935,2026-07-10,YouTube Premium,149.0,Subscription,AutoPay,Monthly subscription fee - YouTube Premium
+T00936,2026-07-10,Adobe,2672.0,Subscription,Card,Monthly subscription fee - Adobe
+T00937,2026-07-10,StarCoffee Cafe,251.57,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00938,2026-07-10,Uber Rides,336.65,Transport,Card,Transport purchase at Uber Rides
+T00939,2026-07-10,Zomato Food Delivery,503.58,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00940,2026-07-11,City Electricity Board,2001.53,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T00941,2026-07-11,Zomato Food Delivery,341.81,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00942,2026-07-11,Uber Rides,243.55,Transport,UPI,Transport purchase at Uber Rides
+T00943,2026-07-11,Swiggy Instamart,272.21,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00944,2026-07-12,Netflix,799.0,Subscription,AutoPay,Monthly subscription fee - Netflix
+T00945,2026-07-12,Water Works Dept,375.09,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00946,2026-07-13,City Electricity Board,3348.68,Utilities,UPI,Utilities purchase at City Electricity Board
+T00947,2026-07-13,BookMyShow,1223.88,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00948,2026-07-13,Uber Rides,191.34,Transport,Card,Transport purchase at Uber Rides
+T00949,2026-07-13,Shell Fuel Station,1784.18,Transport,Card,Transport purchase at Shell Fuel Station
+T00950,2026-07-14,Zomato Food Delivery,430.73,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00951,2026-07-14,Swiggy Instamart,1457.13,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00952,2026-07-15,Microsoft 365,489.0,Subscription,Card,Monthly subscription fee - Microsoft 365
+T00953,2026-07-15,Swiggy Instamart,376.44,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00954,2026-07-16,BookMyShow,785.5,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00955,2026-07-17,CloudBox,799.0,Subscription,AutoPay,Monthly subscription fee - CloudBox
+T00956,2026-07-17,StarCoffee Cafe,400.8,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00957,2026-07-17,Local Diner,1256.03,Dining,UPI,Dining purchase at Local Diner
+T00958,2026-07-17,Water Works Dept,444.55,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00959,2026-07-17,Water Works Dept,775.91,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00960,2026-07-18,NewsPlus,249.0,Subscription,AutoPay,Monthly subscription fee - NewsPlus
+T00961,2026-07-18,Shell Fuel Station,2821.41,Transport,Card,Transport purchase at Shell Fuel Station
+T00962,2026-07-18,BookMyShow,971.29,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00963,2026-07-19,Swiggy Instamart,419.48,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00964,2026-07-19,Shell Fuel Station,2810.88,Transport,Card,Transport purchase at Shell Fuel Station
+T00965,2026-07-20,FitnessPro,499.0,Subscription,AutoPay,Monthly subscription fee - FitnessPro
+T00966,2026-07-20,Swiggy Instamart,1106.68,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00967,2026-07-20,BookMyShow,621.9,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00968,2026-07-20,Zomato Food Delivery,939.41,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00969,2026-07-21,City Electricity Board,3980.68,Utilities,UPI,Utilities purchase at City Electricity Board
+T00970,2026-07-21,PharmaCare Chemist,307.79,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00971,2026-07-22,GamingPlus,699.0,Subscription,Card,Monthly subscription fee - GamingPlus
+T00972,2026-07-22,Uber Rides,505.7,Transport,Card,Transport purchase at Uber Rides
+T00973,2026-07-22,PharmaCare Chemist,701.2,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00974,2026-07-23,PharmaCare Chemist,733.05,Shopping,UPI,Shopping purchase at PharmaCare Chemist
+T00975,2026-07-23,StarCoffee Cafe,370.09,Dining,UPI,Dining purchase at StarCoffee Cafe
+T00976,2026-07-23,City Electricity Board,2892.16,Utilities,UPI,Utilities purchase at City Electricity Board
+T00977,2026-07-24,Water Works Dept,822.64,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00978,2026-07-24,Swiggy Instamart,184.25,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T00979,2026-07-24,BookMyShow,1369.37,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00980,2026-07-25,Substack Pro,399.0,Subscription,Card,Monthly subscription fee - Substack Pro
+T00981,2026-07-25,Zomato Food Delivery,510.33,Dining,UPI,Dining purchase at Zomato Food Delivery
+T00982,2026-07-26,Water Works Dept,447.7,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00983,2026-07-26,TechStore Electronics,6794.07,Shopping,Card,Shopping purchase at TechStore Electronics
+T00984,2026-07-27,TechStore Electronics,10782.78,Shopping,Card,Shopping purchase at TechStore Electronics
+T00985,2026-07-27,Supermarket Fresh,663.66,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00986,2026-07-27,Supermarket Fresh,741.35,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00987,2026-07-27,Water Works Dept,551.08,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T00988,2026-07-28,VPN Shield,299.0,Subscription,Card,Monthly subscription fee - VPN Shield
+T00989,2026-07-28,BookMyShow,1300.35,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00990,2026-07-28,Uber Rides,587.21,Transport,UPI,Transport purchase at Uber Rides
+T00991,2026-07-29,PharmaCare Chemist,653.44,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00992,2026-07-30,PharmaCare Chemist,1457.62,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00993,2026-07-30,Supermarket Fresh,1598.48,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00994,2026-07-30,BookMyShow,1069.39,Entertainment,UPI,Entertainment purchase at BookMyShow
+T00995,2026-07-31,PharmaCare Chemist,254.97,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T00996,2026-07-31,Supermarket Fresh,1022.28,Groceries,Card,Groceries purchase at Supermarket Fresh
+T00997,2026-07-31,Uber Rides,446.84,Transport,UPI,Transport purchase at Uber Rides
+T00998,2026-07-31,Supermarket Fresh,375.4,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T00999,2026-08-01,Amazon Prime,299.0,Subscription,AutoPay,Monthly subscription fee - Amazon Prime
+T01000,2026-08-01,City Electricity Board,3373.88,Utilities,UPI,Utilities purchase at City Electricity Board
+T01001,2026-08-02,Shell Fuel Station,1966.14,Transport,Card,Transport purchase at Shell Fuel Station
+T01002,2026-08-03,Google One,149.0,Subscription,AutoPay,Monthly subscription fee - Google One
+T01003,2026-08-03,TechStore Electronics,4726.96,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T01004,2026-08-04,City Electricity Board,3588.34,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T01005,2026-08-04,PharmaCare Chemist,1589.55,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T01006,2026-08-05,Spotify,119.0,Subscription,AutoPay,Monthly subscription fee - Spotify
+T01007,2026-08-05,Zomato Food Delivery,631.2,Dining,UPI,Dining purchase at Zomato Food Delivery
+T01008,2026-08-06,TechStore Electronics,8807.97,Shopping,Card,Shopping purchase at TechStore Electronics
+T01009,2026-08-06,City Electricity Board,3163.41,Utilities,UPI,Utilities purchase at City Electricity Board
+T01010,2026-08-06,Shell Fuel Station,1373.38,Transport,Card,Transport purchase at Shell Fuel Station
+T01011,2026-08-06,Uber Rides,526.22,Transport,UPI,Transport purchase at Uber Rides
+T01012,2026-08-07,City Electricity Board,2349.16,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T01013,2026-08-07,Shell Fuel Station,1753.94,Transport,Card,Transport purchase at Shell Fuel Station
+T01014,2026-08-07,Shell Fuel Station,2306.79,Transport,Card,Transport purchase at Shell Fuel Station
+T01015,2026-08-08,Dropbox,800.0,Subscription,Card,Monthly subscription fee - Dropbox
+T01016,2026-08-08,PharmaCare Chemist,1416.22,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T01017,2026-08-09,BookMyShow,730.93,Entertainment,UPI,Entertainment purchase at BookMyShow
+T01018,2026-08-09,Shell Fuel Station,2189.78,Transport,Card,Transport purchase at Shell Fuel Station
+T01019,2026-08-10,YouTube Premium,149.0,Subscription,AutoPay,Monthly subscription fee - YouTube Premium
+T01020,2026-08-10,Adobe,2672.0,Subscription,Card,Monthly subscription fee - Adobe
+T01021,2026-08-10,Water Works Dept,650.95,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T01022,2026-08-10,Zomato Food Delivery,868.77,Dining,UPI,Dining purchase at Zomato Food Delivery
+T01023,2026-08-11,TechStore Electronics,2017.8,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T01024,2026-08-11,TechStore Electronics,6783.1,Shopping,Card,Shopping purchase at TechStore Electronics
+T01025,2026-08-11,Water Works Dept,824.95,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T01026,2026-08-12,Netflix,799.0,Subscription,AutoPay,Monthly subscription fee - Netflix
+T01027,2026-08-12,Swiggy Instamart,296.16,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T01028,2026-08-13,Supermarket Fresh,3256.12,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T01029,2026-08-13,Zomato Food Delivery,429.14,Dining,UPI,Dining purchase at Zomato Food Delivery
+T01030,2026-08-14,BookMyShow,742.51,Entertainment,UPI,Entertainment purchase at BookMyShow
+T01031,2026-08-14,Local Diner,346.14,Dining,UPI,Dining purchase at Local Diner
+T01032,2026-08-14,Zomato Food Delivery,892.28,Dining,UPI,Dining purchase at Zomato Food Delivery
+T01033,2026-08-14,Zomato Food Delivery,458.53,Dining,UPI,Dining purchase at Zomato Food Delivery
+T01034,2026-08-15,Microsoft 365,489.0,Subscription,Card,Monthly subscription fee - Microsoft 365
+T01035,2026-08-15,BookMyShow,781.23,Entertainment,UPI,Entertainment purchase at BookMyShow
+T01036,2026-08-15,Supermarket Fresh,1120.11,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T01037,2026-08-15,StarCoffee Cafe,316.01,Dining,UPI,Dining purchase at StarCoffee Cafe
+T01038,2026-08-16,PharmaCare Chemist,1217.71,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T01039,2026-08-16,StarCoffee Cafe,183.8,Dining,UPI,Dining purchase at StarCoffee Cafe
+T01040,2026-08-16,BookMyShow,312.49,Entertainment,UPI,Entertainment purchase at BookMyShow
+T01041,2026-08-17,CloudBox,799.0,Subscription,AutoPay,Monthly subscription fee - CloudBox
+T01042,2026-08-17,Zomato Food Delivery,597.57,Dining,UPI,Dining purchase at Zomato Food Delivery
+T01043,2026-08-17,Uber Rides,335.93,Transport,UPI,Transport purchase at Uber Rides
+T01044,2026-08-17,BookMyShow,1275.06,Entertainment,UPI,Entertainment purchase at BookMyShow
+T01045,2026-08-18,NewsPlus,249.0,Subscription,AutoPay,Monthly subscription fee - NewsPlus
+T01046,2026-08-18,City Electricity Board,2234.35,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T01047,2026-08-18,Local Diner,1069.17,Dining,UPI,Dining purchase at Local Diner
+T01048,2026-08-18,Water Works Dept,550.36,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T01049,2026-08-19,Water Works Dept,772.65,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T01050,2026-08-20,FitnessPro,499.0,Subscription,AutoPay,Monthly subscription fee - FitnessPro
+T01051,2026-08-20,Uber Rides,277.56,Transport,Card,Transport purchase at Uber Rides
+T01052,2026-08-20,Swiggy Instamart,1339.49,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T01053,2026-08-20,Shell Fuel Station,2681.56,Transport,Card,Transport purchase at Shell Fuel Station
+T01054,2026-08-21,Supermarket Fresh,1120.34,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T01055,2026-08-22,GamingPlus,699.0,Subscription,Card,Monthly subscription fee - GamingPlus
+T01056,2026-08-22,City Electricity Board,3984.61,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T01057,2026-08-22,Supermarket Fresh,2091.52,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T01058,2026-08-22,Shell Fuel Station,1843.6,Transport,Card,Transport purchase at Shell Fuel Station
+T01059,2026-08-23,Local Diner,1199.9,Dining,UPI,Dining purchase at Local Diner
+T01060,2026-08-23,StarCoffee Cafe,330.61,Dining,UPI,Dining purchase at StarCoffee Cafe
+T01061,2026-08-23,Uber Rides,261.59,Transport,Card,Transport purchase at Uber Rides
+T01062,2026-08-24,StarCoffee Cafe,443.1,Dining,UPI,Dining purchase at StarCoffee Cafe
+T01063,2026-08-24,Local Diner,626.4,Dining,UPI,Dining purchase at Local Diner
+T01064,2026-08-24,Supermarket Fresh,1512.1,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T01065,2026-08-24,Swiggy Instamart,1529.35,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T01066,2026-08-25,Substack Pro,399.0,Subscription,Card,Monthly subscription fee - Substack Pro
+T01067,2026-08-25,TechStore Electronics,7304.45,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T01068,2026-08-25,Shell Fuel Station,2664.93,Transport,Card,Transport purchase at Shell Fuel Station
+T01069,2026-08-25,Uber Rides,153.19,Transport,UPI,Transport purchase at Uber Rides
+T01070,2026-08-25,Supermarket Fresh,1083.94,Groceries,UPI,Groceries purchase at Supermarket Fresh
+T01071,2026-08-26,TechStore Electronics,516.81,Shopping,NetBanking,Shopping purchase at TechStore Electronics
+T01072,2026-08-27,StarCoffee Cafe,241.56,Dining,UPI,Dining purchase at StarCoffee Cafe
+T01073,2026-08-27,City Electricity Board,2828.48,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T01074,2026-08-27,Uber Rides,505.83,Transport,Card,Transport purchase at Uber Rides
+T01075,2026-08-28,VPN Shield,299.0,Subscription,Card,Monthly subscription fee - VPN Shield
+T01076,2026-08-28,Shell Fuel Station,2994.57,Transport,Card,Transport purchase at Shell Fuel Station
+T01077,2026-08-29,Water Works Dept,836.01,Utilities,AutoPay,Utilities purchase at Water Works Dept
+T01078,2026-08-29,Swiggy Instamart,344.39,Groceries,UPI,Groceries purchase at Swiggy Instamart
+T01079,2026-08-29,PharmaCare Chemist,1333.55,Shopping,Card,Shopping purchase at PharmaCare Chemist
+T01080,2026-08-30,City Electricity Board,3288.6,Utilities,AutoPay,Utilities purchase at City Electricity Board
+T01081,2026-08-31,Local Diner,550.14,Dining,UPI,Dining purchase at Local Diner
+T01082,2026-08-31,City Electricity Board,3391.96,Utilities,UPI,Utilities purchase at City Electricity Board
